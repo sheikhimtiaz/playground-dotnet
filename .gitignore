@@ -4,6 +4,16 @@
 Playground/.idea
 Playground/Greeter/bin
 Playground/Greeter/obj
+/Playground/Greeter/obj
+/Playground/Greeter/bin
+*.suo
+*.user
+_ReSharper.*
+bin
+obj
+packages
+
+playground-dotnet/Playground/Greeter/obj
 
 # User-specific stuff
 .idea/**/workspace.xml
